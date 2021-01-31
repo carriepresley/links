@@ -7,10 +7,14 @@
 
 }
 body{
-    margin: 0;
-    transition: ease-in-out 0.6s;
-    font-family: "Lato", sans-serif; 
-    height: 100vh;
+    body{
+        margin: 0;
+        transition: ease-in-out 0.6s;
+        font-family: "Lato", sans-serif; 
+        height: 100vh;
+       
+       
+    }
    
    
 }
@@ -88,7 +92,7 @@ img{
     align-items: center;
     margin: auto;
     padding: auto;
-    width: 33px;
+    width: 35px;
    
 }
 
